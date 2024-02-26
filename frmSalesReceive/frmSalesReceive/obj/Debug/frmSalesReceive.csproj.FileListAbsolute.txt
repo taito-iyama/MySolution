@@ -1,0 +1,11 @@
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\bin\Debug\frmSalesReceive.exe.config
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\bin\Debug\frmSalesReceive.exe
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\bin\Debug\frmSalesReceive.pdb
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.csproj.AssemblyReference.cache
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.InitDisp.resources
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.Properties.Resources.resources
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.csproj.GenerateResource.cache
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.csproj.CoreCompileInputs.cache
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.exe
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.pdb
+C:\SourceForGitHub\MySolutions\frmSalesReceive\frmSalesReceive\obj\Debug\frmSalesReceive.SalesReceiveDisp.resources

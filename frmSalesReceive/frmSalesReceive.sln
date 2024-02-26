@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmSalesReceive", "frmSalesReceive\frmSalesReceive.csproj", "{9C4A114F-096B-4B5F-AF2F-8C465A317ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4A114F-096B-4B5F-AF2F-8C465A317ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4A114F-096B-4B5F-AF2F-8C465A317ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4A114F-096B-4B5F-AF2F-8C465A317ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4A114F-096B-4B5F-AF2F-8C465A317ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9B06ED-40BA-49C0-97B1-F2E88372E01E}
+	EndGlobalSection
+EndGlobal
