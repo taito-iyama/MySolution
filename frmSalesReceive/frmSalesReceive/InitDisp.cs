@@ -40,8 +40,10 @@ namespace frmSalesReceive
 
         private void Button_Click(object sender, EventArgs e)
         {
+            this.Enabled = false;
             SelectedDate = ReceiveDate.Value;
             var salesReceiveDisp = new SalesReceiveDisp(SelectedDate, InputStockHouse, connectionstring);
+            salesReceiveDisp.FormClosed += (s, args) => { this.Enabled = true; };
             salesReceiveDisp.ShowDialog();
         }
 
